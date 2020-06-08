@@ -1,0 +1,23 @@
+{
+  "name": "bike_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffejcaplan/bike_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffejcaplan/bike_tracker/issues"
+  },
+  "homepage": "https://github.com/ffejcaplan/bike_tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0"
+  }
+}
